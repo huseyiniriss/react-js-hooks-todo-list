@@ -1,0 +1,42 @@
+#root{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial;
+}
+
+#title{
+    color: #187fed;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.completed{
+    text-decoration: line-through;
+}
+
+.todo-text{
+    width: 200px;
+}
+
+.todo-item{
+    display: flex;
+    padding: 4px;
+    margin: 4px;
+    border-bottom: 1px solid #cccccc;
+}
+
+#todoForm{
+    padding: 4px;
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+}
+
+#todoList{
+    padding: 4px;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
