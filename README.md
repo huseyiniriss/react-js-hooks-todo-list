@@ -1,5 +1,5 @@
 # React JS Hook Todo list
-react js project example
+react js project example with hooks
 
 ## Installation
 
