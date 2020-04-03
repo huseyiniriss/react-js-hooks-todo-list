@@ -4,7 +4,7 @@ react js project example
 ## Installation
 
 ```
-git clone https://github.com/huseyiniriss/React-Native-Income-Expense.git
+git clone https://github.com/huseyiniriss/react-js-hooks-todo-list.git
 react-scripts start
 ```
 
